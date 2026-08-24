@@ -8,7 +8,7 @@ spec:
     app: backend
     tier: backend
     project: expense
-    version: green
+    version: bule
   ports:
   - protocol: TCP
     port: 8080 # service port
